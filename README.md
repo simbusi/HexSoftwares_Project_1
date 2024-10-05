@@ -19,5 +19,5 @@ Pain Point: There’s no user-friendly way to manage listings or interactions li
 Improvement Suggestion: Add user profiles with saved searches, favorite listings, and a more integrated messaging system for communication.
 A more visual layout with larger images, user reviews, and a clearly defined section for details like price, location, and contact information.
 
-
+https://www.figma.com/proto/8EgjgYEQ8aqr9NrkZHMiW9/Wireframe-Designer-(Community)?node-id=1-2&node-type=instance&t=uuOIWNrEVYmommpc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
